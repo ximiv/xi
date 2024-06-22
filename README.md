@@ -1,4 +1,4 @@
-# XiaoYu :link: https://ximiv.github.io/mi/ 
+# XiaoYu :link: https://ximiv.github.io/xi/ 
 ### :page_facing_up: [1](https://ximiv.github.io/mi//tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 4 
