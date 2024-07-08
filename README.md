@@ -1,6 +1,6 @@
 # XiaoYu :link: https://ximiv.github.io/xi/ 
-### :page_facing_up: [1](https://ximiv.github.io/xi//tag.html) 
+### :page_facing_up: [2](https://ximiv.github.io/xi//tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 32 
-### :alarm_clock: 2024-06-22 22:55:51 
+### :hibiscus: 38 
+### :alarm_clock: 2024-07-08 14:40:44 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
